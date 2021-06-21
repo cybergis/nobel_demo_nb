@@ -1,0 +1,6 @@
+Start at the Notebook Dashboard (this is the page you go to when you open CyberGISX).
+
+On the top right menu select `New` and in the dropdown box select `Python 3`. 
+
+This will open a new window with the new notebook. 
+You can rename the Notebook by clicking the name on top of the Notebook Page.
